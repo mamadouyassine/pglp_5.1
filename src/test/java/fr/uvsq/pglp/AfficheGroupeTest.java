@@ -13,7 +13,7 @@ public class AfficheGroupeTest {
 
         Personnels perso3= new Personnels.Builder("Boro", "Natou", 5).build();
 
-        Personnels perso4= new Personnels.Builder("Traore", "Aziz", 6).build();
+        Personnels perso4= new Personnels.Builder("Traore", "Karim", 6).build();
 
         CompositePerso grp1 = new CompositePerso(1);
         CompositePerso grp2 = new CompositePerso(3);
