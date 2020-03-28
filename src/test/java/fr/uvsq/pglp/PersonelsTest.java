@@ -23,7 +23,7 @@ public class PersonelsTest {
 
         perso4= new Personnels.Builder("Boro", "Natou", 6).build();
 
-        perso2= new Personnels.Builder("Traore", "Aziz", 7).build();
+        perso2= new Personnels.Builder("Traore", "Karim", 7).build();
 
 
 
