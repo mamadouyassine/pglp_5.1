@@ -79,7 +79,6 @@ public class Personnels implements PersonelsInter {
         System.out.println("l'identifiant du personnel :"+this.Id+" "+this.nom+" "+this.prenom);
     }
 
-
     public String toString(){
         String str = "\t je suis un Personnel ID ==>> " + this.Id;
         return str;

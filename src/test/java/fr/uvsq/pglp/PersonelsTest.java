@@ -17,13 +17,13 @@ public class PersonelsTest {
     @Before
     public void setup() {
 
-        perso1= new Personnels.Builder("Derra", "Abdoul", 2).build();
+        perso1= new Personnels.Builder("Ouedraogo", "Abdoul", 2).build();
 
-        perso3= new Personnels.Builder("Simpore", "Naimatou", 5).build();
+        perso3= new Personnels.Builder("Tall", "Zale", 5).build();
 
-        perso4= new Personnels.Builder("Traore", "Bene", 6).build();
+        perso4= new Personnels.Builder("Boro", "Natou", 6).build();
 
-        perso2= new Personnels.Builder("Maiga", "Abdallah", 7).build();
+        perso2= new Personnels.Builder("Traore", "Aziz", 7).build();
 
 
 

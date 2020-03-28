@@ -18,16 +18,12 @@ public class AfficheGroupeTest {
         CompositePerso grp1 = new CompositePerso(1);
         CompositePerso grp2 = new CompositePerso(3);
         CompositePerso grp3 = new CompositePerso(4);
-
         grp1.add(perso1);
         grp1.add(grp2);
-
         grp2.add(grp3);
         grp2.add(perso3);
-
         grp3.add(perso4);
         grp3.add(perso2);
-
         AfficheGroupe affich = new AfficheGroupe(grp1);
         Iterator grouptIter = affich.getIterator();
         while (grouptIter.HasNext()) {

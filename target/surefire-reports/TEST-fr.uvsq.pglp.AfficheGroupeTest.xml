@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="fr.uvsq.pglp.AfficheGroupeTest" time="0.141" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="fr.uvsq.pglp.AfficheGroupeTest" time="0.094" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_241\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\UTILIS~1\AppData\Local\Temp\surefire1009774823446140220\surefirebooter4002205896261279186.jar C:\Users\utilisateur\AppData\Local\Temp\surefire1009774823446140220 2020-03-24T01-31-22_402-jvmRun1 surefire6306466953471324689tmp surefire_0767658601011802107tmp"/>
+    <property name="sun.java.command" value="C:\Users\UTILIS~1\AppData\Local\Temp\surefire8717043970300149267\surefirebooter248561215441587062.jar C:\Users\utilisateur\AppData\Local\Temp\surefire8717043970300149267 2020-03-25T21-48-34_940-jvmRun1 surefire4965504537723111578tmp surefire_08807239207230380365tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\utilisateur\Desktop\Cours\PROGRAMMATION\TP\Exo4.1\pgl4.1\target\test-classes;C:\Users\utilisateur\Desktop\Cours\PROGRAMMATION\TP\Exo4.1\pgl4.1\target\classes;C:\Users\utilisateur\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\utilisateur\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\utilisateur"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\UTILIS~1\AppData\Local\Temp\surefire1009774823446140220\surefirebooter4002205896261279186.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\UTILIS~1\AppData\Local\Temp\surefire8717043970300149267\surefirebooter248561215441587062.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_241\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_241\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -51,7 +51,6 @@
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
-    <property name="idea.version2019.3.1" value="true"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_241\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\PostgreSQL\12\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_241\bin;C:\Program Files\Git\cmd;C:\Users\utilisateur\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2019.3.1\bin;C:\Users\utilisateur\Downloads\apache-maven-3.6.3\bin;;C:\Program Files\JetBrains\PyCharm 2019.3.2\bin;;C:\Users\utilisateur\AppData\Roaming\npm;C:\Program Files\Java\jdk1.8.0_241\bin;;."/>
     <property name="java.vm.info" value="mixed mode"/>
@@ -61,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="test" classname="fr.uvsq.pglp.AfficheGroupeTest" time="0.031"/>
+  <testcase name="test" classname="fr.uvsq.pglp.AfficheGroupeTest" time="0.047"/>
 </testsuite>
