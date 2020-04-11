@@ -1,7 +1,9 @@
 package fr.uvsq.pglp;
+
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collections;
-public class CompositePerso implements PersonelsInter {
+public class CompositePerso implements PersonelsInter, Serializable {
 
     private int IDgrp;
     public ArrayList<PersonelsInter> grpPerso=new ArrayList<PersonelsInter>();

@@ -1,13 +1,13 @@
 package fr.uvsq.pglp;
 
-
+import java.io.Serializable;
 import java.sql.Date;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Personnels implements PersonelsInter {
+public class Personnels implements PersonelsInter, Serializable {
 
     private final String nom;
     private final String prenom;

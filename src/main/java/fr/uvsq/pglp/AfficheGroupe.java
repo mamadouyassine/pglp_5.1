@@ -1,6 +1,8 @@
 package fr.uvsq.pglp;
 import java.util.ArrayList;
-public class AfficheGroupe {
+import java.io.Serializable;
+
+public class AfficheGroupe implements Serializable {
 
     public ArrayList<PersonelsInter> grp=new ArrayList<PersonelsInter>();
 
